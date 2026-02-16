@@ -37,3 +37,4 @@ docker compose up -d
 
 
 **Ссылка на видео:** 
+https://rutube.ru/video/9a5b68e890b78e0d0c459e41e75a26d4/
